@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaLlamadas</string>
+
+    <string name="bt_entrantes">Llamadas Entrantes</string>
+    <string name="bt_salientes">Llamadas Salientes</string>
+    <string name="bt_mezcla">Borrar Registro Llamadas</string>
+    <string name="bt_actualiza">Aztualizar</string>
+
+
+</resources>
